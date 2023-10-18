@@ -44,7 +44,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 		Novice::ScreenPrintf(0, 0, "Hello Github");
 		Novice::ScreenPrintf(0, 15, "shoma_seki");
-		Novice::ScreenPrintf(0, 30, "マージするってマージ？");
+		Novice::ScreenPrintf(0, 30, "マージしません");
 		///
 		/// ↑描画処理ここまで
 		///
