@@ -44,13 +44,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 		Novice::ScreenPrintf(0, 0, "Hello Github");
 		Novice::ScreenPrintf(0, 15, "shoma_seki");
-<<<<<<< HEAD
-		Novice::ScreenPrintf(0, 30, "マージしません");
-		Novice::ScreenPrintf(0, 45, "プルリクエスト");
-=======
 		Novice::ScreenPrintf(0, 30, "merge sinai");
 		Novice::ScreenPrintf(166, 499, "pull sezunisagyou");
->>>>>>> pullsinai
 		///
 		/// ↑描画処理ここまで
 		///
