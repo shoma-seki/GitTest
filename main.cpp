@@ -46,6 +46,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::ScreenPrintf(0, 15, "shoma_seki");
 		Novice::ScreenPrintf(0, 30, "マージしません");
 		Novice::ScreenPrintf(0, 45, "プルリクエスト");
+		Novice::ScreenPrintf(0, 45, "プルしないで作業");
 		///
 		/// ↑描画処理ここまで
 		///
